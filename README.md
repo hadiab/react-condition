@@ -8,7 +8,7 @@ React conditional rendering more friendly way
 ```javascript
 import { If } from 'react-condition'
 
-<If condition={false}>
+<If condition={true}>
   <div>TRUE</div>
 </If>
 ```
