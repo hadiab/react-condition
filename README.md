@@ -2,6 +2,12 @@
 
 React conditional rendering more friendly way
 
+## Install
+
+```
+npm install react-condition
+yarn add react-condition
+```
 
 ## how it's works
 
