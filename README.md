@@ -9,7 +9,7 @@ npm install react-condition
 yarn add react-condition
 ```
 
-## how it's works
+## How it's works
 
 ```javascript
 import { If } from 'react-condition'
