@@ -5,11 +5,11 @@ React conditional rendering more friendly way
 ## Install
 
 ```
-npm install react-condition
-yarn add react-condition
+npm install reactjs-condition
+yarn add reactjs-condition
 ```
 
-## How it's works
+## How it works?
 
 ```javascript
 import { If } from 'react-condition'
