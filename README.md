@@ -2,19 +2,25 @@
 
 React conditional rendering more friendly way
 
+## Install
 
-## how it's works
+```
+npm install reactjs-condition
+yarn add reactjs-condition
+```
+
+## How it works?
 
 ```javascript
-import { If } from 'react-condition'
+import { If } from 'reactjs-condition'
 
-<If condition={false}>
+<If condition={true}>
   <div>TRUE</div>
 </If>
 ```
 
 ```javascript
-import { If, Else } from 'react-condition'
+import { If, Else } from 'reactjs-condition'
 
 <If condition={false}>
   <div>TRUE</div>
@@ -24,7 +30,7 @@ import { If, Else } from 'react-condition'
 ```
 
 ```javascript
-import { If, ElseIf, Else } from 'react-condition'
+import { If, ElseIf, Else } from 'reactjs-condition'
 
 const fruit = 'Apple'
 
