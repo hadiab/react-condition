@@ -4,9 +4,6 @@
 # testing
 /coverage
 
-# src
-/src
-
 .nvmrc
 
 # misc

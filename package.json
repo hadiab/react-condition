@@ -1,5 +1,5 @@
 {
-  "name": "react-condition",
+  "name": "reactjs-condition",
   "version": "0.1.1",
   "description": "React conditional rendering more friendly way",
   "main": "build/index.js",
